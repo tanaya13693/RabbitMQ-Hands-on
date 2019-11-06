@@ -1,0 +1,3 @@
+Problem Statement:
+Create 2 services S1 and S2. S1 will insert a record in database. Publish the record in RabbitMQ(RMQ). 
+S2 should read the record from RMQ and update the record into the database. 
